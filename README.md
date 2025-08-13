@@ -6,7 +6,7 @@ Aspiring **financial researcher** with a passion for solving real-world challeng
 
 - 🎓 Junior at University of Maryland Global Campus, majoring in Data Science and Finance  
 - 🌱 Currently Learning: Machine Learning, Artificial Intelligence, Investments, Financial Analysis, International Finance. 
-- 👩‍💻 Interests: Financial Technology, Trading, Risk Management, Data Visualization, Machine Learning
+- 👩‍💻 Interests: Financial Technology, Trading, Risk Management, Data Science & Analytics, Machine Learning
 - 📫 Connect With Me Here: [LinkedIn](https://www.linkedin.com/in/kimberly-h-b91555269/) | kimberlymhernandez4@gmail.com  
 
 ---
