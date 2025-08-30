@@ -2,7 +2,7 @@
 
 <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kimberlymhernandez4?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
-Aspiring **financial researcher** with a passion for solving real-world challenges through data. I’m currently pursuing a double major in **Data Science and Finance** at the **University of Maryland Global Campus**. I enjoy exploring the intersection of financial systems, machine learning, and technology to drive actionable insights.
+I'm an Aspiring **financial researcher** with a passion for solving real-world challenges through the usage of data algorithms and mathematics. I’m currently pursuing a double major in **Data Science and Finance** at the **University of Maryland Global Campus**. I enjoy exploring the intersection of financial systems, machine learning, and technology to drive actionable insights.
 
 - 🎓 Junior at University of Maryland Global Campus, majoring in Data Science and Finance  
 - 🌱 Currently Learning: Machine Learning, Artificial Intelligence, Investments, Financial Analysis, International Finance. 
