@@ -42,9 +42,9 @@ I'm an Aspiring **financial researcher** with a passion for solving real-world c
 
 # Areas of Specialization
 
-## Finance: Risk Management, Securities Services, Porfolio Management, Business Finance, FinTech & Financial Markets
+Finance: Risk Management, Securities Services, Porfolio Management, Business Finance, FinTech & Financial Markets
 
-## Data Science: Machine Learning, Deep Learning, Dashboard Creation, Data Visualizations, Data Analysis, Statistical Methods, Exploratory Data Analysis (EDA), Data Consultancy & Strategy. 
+Data Science: Machine Learning, Deep Learning, Dashboard Creation, Data Visualizations, Data Analysis, Statistical Methods, Exploratory Data Analysis (EDA), Data Consultancy & Strategy. 
 
 ---
 
