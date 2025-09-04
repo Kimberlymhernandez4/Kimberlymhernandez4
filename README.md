@@ -40,6 +40,12 @@ I'm an Aspiring **financial researcher** with a passion for solving real-world c
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
+# Areas of Specialization
+
+## Finance: Risk Management, Securities Services, Porfolio Management, Business Finance, FinTech & Financial Markets
+
+## Data Science: Machine Learning, Deep Learning, Dashboard Creation, Data Visualizations, Data Analysis, Statistical Methods, Exploratory Data Analysis (EDA), Data Consultancy & Strategy. 
+
 ---
 
 ## 🚀 Featured Projects
