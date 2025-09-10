@@ -4,7 +4,7 @@
 
 I'm an Aspiring **financial researcher** with a passion for solving real-world challenges through the usage of data algorithms and mathematics. I’m currently pursuing a double major in **Data Science and Finance** at the **University of Maryland Global Campus**. I enjoy exploring the intersection of financial systems, machine learning, and technology to drive actionable insights.
 
-- 🎓 Junior at University of Maryland Global Campus, majoring in Data Science and Finance  
+- 🎓 Junior at University of Maryland, majoring in Data Science and Finance  
 - 🌱 Currently Learning: Machine Learning, Artificial Intelligence, Investments, Financial Analysis, International Finance. 
 - 👩‍💻 Interests: Financial Technology, Trading, Risk Management, Data Science & Analytics, Machine Learning
 - 📫 Connect With Me Here: [LinkedIn](https://www.linkedin.com/in/kimberly-h-b91555269/) | kimberlymhernandez4@gmail.com  
@@ -54,8 +54,10 @@ Data Science: Machine Learning, Deep Learning, Dashboard Creation, Data Visualiz
 |-----------|----------------|--------|
 | [Power BI Projects – DATA 320](https://github.com/Kimberlymhernandez4/Power-BI-Projects-DATA-320-) | Created interactive Power BI dashboards for survey analysis, KPIs, and patient experience insights | Power BI, Excel |
 | [Verizon Investment Project – 2025 Stock Analysis](https://github.com/Kimberlymhernandez4/Business-Finance-Course-FINC-330-) | Conducted fundamental analysis and valuation of Verizon using common-size statements, trend ratios, and stock metrics | Excel, Finance, Accounting |
+| [Email Spam Classification – Machine Learning](https://github.com/Kimberlymhernandez4/Email-Spam-Classification-Using-ML) | Developed ML pipeline for email spam classification using supervised learning algorithms | Python, Scikit-Learn |
+| [Bayesian Spam Classifier – Naive Bayes Models](https://github.com/Kimberlymhernandez4/Bayesian-Classifier-of-Emails-for-Spam-Detection-Using-Gaussian-and-Bernouli-Naive-Bayes-Algorithms) | Implemented Bayesian classifiers (Gaussian & Bernoulli NB) to detect spam emails | Python, Pandas, NumPy |
 
-
+---
 
 ## 🤖 Break Through Tech AI & ML Portfolio
 
